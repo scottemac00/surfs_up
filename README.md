@@ -7,11 +7,11 @@ The purpose of this analysis was to identify weather trends on the island of Oah
    <p align="left"><img width="300" height="522" src="Resources/june_summary_stats.png"></p>
 - Summary Temperature Statistics for December also validate the tropical climate's suitablility for both a surfing and serving iced cream business.
    <p align="right"><img width="300" height="522" src="Resources/dec_summary_stats.png"></p>
-- Because the temperatures are similar in June and December, it is reasonable to draw a conclusion on the weather for July-November. The earlier analysis on precipipation illuminated the suitability of these months due to low historical rainfall.
+- Because the temperatures are similar in June and December, it is reasonable to draw a conclusion on the weather for July-November. The earlier analysis on precipitation illuminated the suitability of these months due to low historical rainfall.
    <p align="center"><img width="610" height="463" src="Resources/precip_analysis.png"></p>
 ## Summary
 The results certainly speak to the potential for profitability due to temperature and precipitation. Perhaps more analysis on the water temperatures and tidal and wave activity for potential locations might also illuminate business intelligence. Gathering data from sensors or stations for water temp, tide info, moon cycle, and wave activity, and then cross-referencing that with other data, such as traffic (pedestrian / vehicular) would further inform business recommendations.
-- The code for two additonal queries would look similar to gathering the temperature observations:
+- The code for two additional queries would look similar to gathering the temperature observations:
   <p align="center"><img width="621" height="64" src="Resources/june_watertemp_query.png"></p>
   <p align="center"><img width="620" height="63" src="Resources/dec_waveact_query.png"></p>
 - Generating the summary statistics for this data might help inform investor decisions.  
